@@ -1,0 +1,24 @@
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\bin\Debug\PathSearching1.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\bin\Debug\PathSearching1.exe
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\bin\Debug\PathSearching1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\obj\Debug\PathSearching1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\obj\Debug\PathSearching1.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\obj\Debug\PathSearching1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\obj\Debug\PathSearching1.exe
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\obj\Debug\PathSearching1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\obj\Debug\PathSearching1.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\bin\Debug\Priority Queue.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\bin\Debug\Priority Queue.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\AI\PathSearching1\PathSearching1\bin\Debug\Priority Queue.xml
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\bin\Debug\PathSearching1.exe.config
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\bin\Debug\PathSearching1.exe
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\bin\Debug\PathSearching1.pdb
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\bin\Debug\Priority Queue.dll
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\bin\Debug\Priority Queue.pdb
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\bin\Debug\Priority Queue.xml
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\obj\Debug\PathSearching1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\obj\Debug\PathSearching1.Form1.resources
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\obj\Debug\PathSearching1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\obj\Debug\PathSearching1.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\obj\Debug\PathSearching1.exe
+C:\Users\lenovo\Desktop\2016011498_自66_林嘉成_人智第一次大作业\PathSearching1\PathSearching1\obj\Debug\PathSearching1.pdb
